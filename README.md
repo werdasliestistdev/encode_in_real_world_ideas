@@ -15,3 +15,24 @@ Some ideas i have for some challenges:
 * it doesnt have to be PERFECT anyway for the beginning. 
 * it seems like almost like steganography, but just, we dont wanna encode data in the actual image file. rather into whatever we have as a result from the image file...
 
+
+---
+
+
+OK: I JUST FOUND THIS PROJECT ACCIDENTALLY ON MY COMPUTER.
+i am high, thats the only reason why i am not embarrassed to share this publicly, even though the code is DUMB and useless, and clearly shows,
+i have no fucking clue about what i am trying here. BUT, hear me out, really, it's gonna be fine, trust me, because:
+1. i am typing this in VIM 
+2. i am too lazy for even looking up md synax and can't memorize because i have always been that lazy
+3. i know the code is dumb. the problem is: i am too dumb for this.
+
+so, not sure what this list means, but, this project: is just a placeholder.
+i hope someone who is smarter than me can quickly point out the flaws in the idea or the big challenges to overcome here.
+i am not even working on this, i might come back to it in a few months. i got too many more tangible ideas i am working on. 
+but sometimes things like this just don't let me go. i would love to solve it. but not enough, to actuall do it.
+still enough to be curious...
+just maybe, you can make something out of this or at least show me, why my ideas are so insanely dumb, 
+so i can throw it outta mi brain.
+
+
+L
